@@ -1,0 +1,11 @@
+Front Radar ID (Radar1): 310
+Left Radar ID (Radar2): 320
+Right Radar ID(Radar3): 330
+Back Radar ID(Radar4): 340
+
+
+
+Error Information:
+ 1.While GPS is not active, GPS error LED will glow. If GPS is active and running ,GPS error led will be off.
+ 
+
